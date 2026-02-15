@@ -1,6 +1,6 @@
 ## 👋 Hi, my name is Sergey!
 
-Software engineer at Yandex. 
+Software engineer at Ozon Tech. 
 
 ## Languages 
 
